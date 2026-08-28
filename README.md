@@ -2,7 +2,7 @@
 
 Herramientas gratuitas y reproducibles para resolver trabajos pesados con archivos.
 
-Cada utilidad de este repositorio tiene código fuente, caso de prueba y ejecutable de Windows con SHA-256 publicado en la release correspondiente. No requieren conexión a Internet y no envían archivos a ningún servicio.
+Cada utilidad de este repositorio tiene código fuente, caso de prueba y una descarga de Windows con SHA-256 publicada en la release correspondiente. No requieren conexión a Internet y no envían archivos a ningún servicio.
 
 ## Herramientas
 
@@ -14,7 +14,7 @@ Cada utilidad de este repositorio tiene código fuente, caso de prueba y ejecuta
 
 ## Descargas
 
-Descarga los `.exe` desde [la última release](https://github.com/DavidMorillas/resuelto-en-lote/releases/latest). Los ejecutables son portables, no están firmados digitalmente y Windows puede mostrar SmartScreen. Verifica siempre `SHA256SUMS.txt`; el código exacto está en este repositorio.
+Descarga los dos `.exe` y el script PowerShell de carpetas desde [la última release](https://github.com/Morillas7/resuelto-en-lote/releases/latest). Los ejecutables son portables, no están firmados digitalmente y Windows puede mostrar SmartScreen. Verifica siempre `SHA256SUMS.txt`; el código exacto está en este repositorio.
 
 ## Uso responsable
 
