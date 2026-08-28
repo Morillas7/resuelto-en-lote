@@ -12,6 +12,7 @@ Cada utilidad de este repositorio tiene código fuente, caso de prueba y una des
 | [Comparar Excel](tools/comparar-excel/) | Dos `.xlsx`, clave única en primera columna | `diferencias_excel.xlsx` | Solo lectura de entradas |
 | [Comparar carpetas](tools/comparar-carpetas/) | Dos carpetas | `comparacion_carpetas.csv` | No copia ni elimina |
 | [Archivos que más ocupan](tools/archivos-grandes/) | Carpeta o unidad | `archivos_mas_grandes.csv` | Solo consulta metadatos |
+| [Renombrar por fecha](tools/renombrar-por-fecha/) | Archivos de una carpeta | `plan_renombrado.csv` | Vista previa por defecto; no sobrescribe |
 
 ## Descargas
 
