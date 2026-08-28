@@ -11,10 +11,11 @@ Cada utilidad de este repositorio tiene código fuente, caso de prueba y una des
 | [Unir Excel](tools/unir-excel/) | Carpeta de `.xlsx` con la misma cabecera | `excel_combinado.xlsx` | No modifica originales |
 | [Comparar Excel](tools/comparar-excel/) | Dos `.xlsx`, clave única en primera columna | `diferencias_excel.xlsx` | Solo lectura de entradas |
 | [Comparar carpetas](tools/comparar-carpetas/) | Dos carpetas | `comparacion_carpetas.csv` | No copia ni elimina |
+| [Archivos que más ocupan](tools/archivos-grandes/) | Carpeta o unidad | `archivos_mas_grandes.csv` | Solo consulta metadatos |
 
 ## Descargas
 
-Descarga los dos `.exe` y el script PowerShell de carpetas desde [la última release](https://github.com/Morillas7/resuelto-en-lote/releases/latest). Los ejecutables son portables, no están firmados digitalmente y Windows puede mostrar SmartScreen. Verifica siempre `SHA256SUMS.txt`; el código exacto está en este repositorio.
+Descarga los dos `.exe` y los scripts PowerShell desde [la última release](https://github.com/Morillas7/resuelto-en-lote/releases/latest). Los ejecutables son portables, no están firmados digitalmente y Windows puede mostrar SmartScreen. Verifica siempre `SHA256SUMS.txt`; el código exacto está en este repositorio.
 
 ## Uso responsable
 
